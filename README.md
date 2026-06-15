@@ -1,18 +1,42 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Práctica: Recursividad 
 
-## Folder Structure
+## Datos del Estudiante
+- **Nombre:** Edwin Patricio Pintado Reinoso
+- **Curso:** Grupo 1
+- **Fecha:** 15/06/2026
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 1. Implementacion de ejemplos de resursividad 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Fecha:** 15/06/2026
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Descripción:** En esta practica se desarrollollaron diferentes metodos, con el objetivo de entender el concepto y aplicacion de recursividad, entre estos la suma de enteros consecutivos desde 1 a n, la potencia de un numero, conociendo la base y el exponente.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Ejercicio1: 
+
+Imagenes Ejercio1: La suma de enteros consecutivos desde 1 a n.
+
+- metodo
+
+![alt text](assets/image1.png)
+
+- ejecución 
+
+![alt text](assets/image2.png)
+
+---
+
+
+Ejercicio2: La potencia de un numero, conociendo la base y el exponente. 
+
+- metodo
+
+![alt text](assets/image3.png)
+
+- ejecución 
+
+![alt text](assets/image4.png)
