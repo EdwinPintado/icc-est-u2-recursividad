@@ -40,3 +40,7 @@ Ejercicio2: La potencia de un numero, conociendo la base y el exponente.
 - ejecución 
 
 ![alt text](assets/image4.png)
+
+- app
+
+![alt text](assets/image5.png)
